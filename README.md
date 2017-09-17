@@ -23,6 +23,7 @@ JSFoo WebVR workshop
 
 ### Multiuser
 [https://networked-aframe.glitch.me/](https://networked-aframe.glitch.me/)
+[https://github.com/haydenjameslee/networked-aframe](https://github.com/haydenjameslee/networked-aframe)
 
 
 ### StandaloneVR
