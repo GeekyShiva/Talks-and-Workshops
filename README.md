@@ -22,7 +22,7 @@ JSFoo WebVR workshop
 
 
 ### Multiuser
-[https://github.com/w3c/webvr/blob/master/explainer.md](https://github.com/w3c/webvr/blob/master/explainer.md)
+[https://networked-aframe.glitch.me/](https://networked-aframe.glitch.me/)
 
 
 ### StandaloneVR
