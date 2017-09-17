@@ -58,6 +58,8 @@ JSFoo WebVR workshop
 
 [Asm.js](http://asmjs.org/faq.html)
 
+[https://aframe.io/blog/arjs/](https://aframe.io/blog/arjs/)
+
 
 ### ar.js
 [Example of ar.js](https://codepen.io/jeromeetienne/pen/mRqqzb)
