@@ -9,9 +9,9 @@ JSFoo WebVR workshop
 [Slide link](https://docs.google.com/presentation/d/1tweLILiyemwVZrxx5PuD-TQKEzuoImJuc7YNAr-u92k/edit?usp=sharing)
 
 
-##Links:
+## Links:
 
-###Introduction to WebVR
+### Introduction to WebVR
 [https://gurumukhi.github.io/vr-ram/](https://gurumukhi.github.io/vr-ram/)
 
 [https://vr.chromeexperiments.com/](https://vr.chromeexperiments.com/)
@@ -21,11 +21,11 @@ JSFoo WebVR workshop
 [https://github.com/w3c/webvr/blob/master/explainer.md](https://github.com/w3c/webvr/blob/master/explainer.md)
 
 
-###Multiuser
+### Multiuser
 [https://github.com/w3c/webvr/blob/master/explainer.md](https://github.com/w3c/webvr/blob/master/explainer.md)
 
 
-###StandaloneVR
+### StandaloneVR
 
 [https://www.wareable.com/oculus-rift/how-oculus-rift-works](https://www.wareable.com/oculus-rift/how-oculus-rift-works)
 
@@ -34,19 +34,19 @@ JSFoo WebVR workshop
 [https://www.youtube.com/watch?v=pN6YCFlS8nU](https://www.youtube.com/watch?v=pN6YCFlS8nU)
 
 
-###UNREAL
+### UNREAL
 [https://appreal-vr.com/blog/unity-or-unreal-best-vr-gaming-platforms/](https://appreal-vr.com/blog/unity-or-unreal-best-vr-gaming-platforms/)
 
 
-###AR
+### AR
 [https://developers.google.com/ar/](https://developers.google.com/ar/)
 
 
-###ARkit: Visual Inertial Odometer (VIO)
+### ARkit: Visual Inertial Odometer (VIO)
 [https://www.newgenapps.com/blog/arkit-vs-arcore-the-key-differences](https://www.newgenapps.com/blog/arkit-vs-arcore-the-key-differences)
 
 
-###AR.js is here
+### AR.js is here
 [https://gist.github.com/jeromeetienne/feeb69257803e69f18dc3ea5f4fc6d71](https://gist.github.com/jeromeetienne/feeb69257803e69f18dc3ea5f4fc6d71)
 
 [https://github.com/jeromeetienne/AR.js/tree/master/aframe](https://github.com/jeromeetienne/AR.js/tree/master/aframe)
@@ -58,13 +58,13 @@ JSFoo WebVR workshop
 [Asm.js](http://asmjs.org/faq.html)
 
 
-###ar.js
+### ar.js
 [Example of ar.js](https://codepen.io/jeromeetienne/pen/mRqqzb)
 
 [Ar.js: Aframe](https://aframe.io/blog/arjs/)
 
 
-###Additional Links
+### Additional Links
 [https://github.com/gurumukhi/jsfoo-vr-talk](https://github.com/gurumukhi/jsfoo-vr-talk)
 
 [https://gurumukhi.github.io/jsfoo-vr-talk/#/](https://gurumukhi.github.io/jsfoo-vr-talk/#/)
