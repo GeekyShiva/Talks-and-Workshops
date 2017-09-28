@@ -27,7 +27,7 @@ You can contact me for any kind of technology/bussiness consulting, Public Speak
 - [Udemy Learning series: Aframe WebVR](https://www.udemy.com/a-frame-webvr/)
 
 
-# JSFoo-Workshop-WebVR-
+# JSFoo-Workshop-WebVR
 JSFoo WebVR workshop
 
 [Slide link](https://docs.google.com/presentation/d/1tweLILiyemwVZrxx5PuD-TQKEzuoImJuc7YNAr-u92k/edit?usp=sharing)
