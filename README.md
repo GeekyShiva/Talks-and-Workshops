@@ -102,3 +102,8 @@ JSFoo WebVR workshop
 
 [http://news-lab-brexit.appspot.com/vr/](http://news-lab-brexit.appspot.com/vr/)
 [https://virtualrealitypop.com/8-immersive-virtual-reality-data-visualizations-25db54de0c9](https://virtualrealitypop.com/8-immersive-virtual-reality-data-visualizations-25db54de0c9)
+
+### Resource Files:
+
+![Microsoft Edge summit WebVR Presentation](files/ms.pdf)
+
