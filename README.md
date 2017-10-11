@@ -11,7 +11,7 @@ You can contact me for any kind of technology/bussiness consulting, Public Speak
 - Facebook : [Geekyshiva](https://www.facebook.com/geekyshiva)
 - Website : [geekyshiva.xyz](http://geekyshiva.xyz/)
 - Email: [shivank1995@gmail.com](shivank1995@gmail.com)
-- Contact: 9005639309
+- Contact Number: 9005639309
 
 
 # Instruction to Reader
