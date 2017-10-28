@@ -51,4 +51,6 @@ You can contact me for any kind of technology/bussiness consulting, Public Speak
 # Resource Files:
 
 ![Microsoft Edge summit WebVR Presentation](files/ms.pdf)
+![Qualcomm-The Mobile Future of Extended Reality](files/the-mobile-future-of-extended-reality-xr.pdf
+)
 
