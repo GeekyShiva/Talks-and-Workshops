@@ -12,13 +12,15 @@ I have spoken/ delivered talk or workshop at the following events:
 
 # Speaker Info: 
 
-You can contact me for any kind of technology/bussiness consulting, Public Speaking, Webinars, Trainig Programs etc at your college, company or vendor.
+You can contact me for any kind of technology/bussiness consulting, Public Speaking, Webinars, Training Programs etc at your college, company or vendor.
 
 - Twitter : [@shivank1995](https://twitter.com/shivank1995)
 - Facebook : [Geekyshiva](https://www.facebook.com/geekyshiva)
 - Website : [geekyshiva.xyz](http://geekyshiva.xyz/)
 - Email: [shivank1995@gmail.com](shivank1995@gmail.com)
 - Contact Number: 9005639309
+
+*PS*: Best way to connect with me is Twitter or Email.
 
 
 # Instruction to Reader
@@ -33,7 +35,11 @@ You can contact me for any kind of technology/bussiness consulting, Public Speak
 - [Learn Aframe Here](https://www.edx.org/professional-certificate/virtual-reality-vr-app-development)
 - [Udemy Learning series: Aframe WebVR](https://www.udemy.com/a-frame-webvr/)
 
-# Slide Links: To be updated soon
+# Slide Links:
+
+*Soon to be updated*
+
+- DevFest 2017 Slide Link: [Here](https://docs.google.com/presentation/d/1qLIiCai2A67KCLof-m1tcQPYvZWE6kgydiYv-yJu8Fw/edit#slide=id.p3)
 
 
 # Additional Links
