@@ -40,6 +40,7 @@ You can contact me for any kind of technology/bussiness consulting, Public Speak
 *Soon to be updated*
 
 - DevFest 2017 Slide Link: [Here](https://docs.google.com/presentation/d/1qLIiCai2A67KCLof-m1tcQPYvZWE6kgydiYv-yJu8Fw/edit#slide=id.p3)
+- Google I/O Extended 2017, Lucknow : [Here](https://docs.google.com/presentation/d/1j0q-xjwJ3Oyy4vtEsVZ7g1vCH8sLhuDMp2QYTmk6paY/edit?usp=sharing)
 
 
 # Additional Links
