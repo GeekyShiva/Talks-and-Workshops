@@ -6,7 +6,7 @@
 
 You can contact me for any kind of technology/bussiness consulting, Public Speaking, Webinars, Trainig Programs etc at your college, company or vendor.
 
-- Twitter : [@shivank1995](https://twitter.com/shivank1995)
+- Twitter(Preferred for taking questions) : [@shivank1995](https://twitter.com/shivank1995)
 - Facebook : [Geekyshiva](https://www.facebook.com/geekyshiva)
 - Website : [geekyshiva.xyz](http://geekyshiva.xyz/)
 - Email: [shivank1995@gmail.com](shivank1995@gmail.com)
