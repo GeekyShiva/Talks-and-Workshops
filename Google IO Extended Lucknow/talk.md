@@ -11,6 +11,7 @@ You can contact me for any kind of technology/bussiness consulting, Public Speak
 
 - Twitter : [@shivank1995](https://twitter.com/shivank1995)
 - Facebook : [Geekyshiva](https://www.facebook.com/geekyshiva)
+- Instagram : [particle_panda](https://www.instagram.com/particle_panda/)
 - Website : [geekyshiva.xyz](http://geekyshiva.xyz/)
 - Email: [shivank1995@gmail.com](shivank1995@gmail.com)
 - Contact Number: 9005639309
@@ -21,6 +22,17 @@ You can contact me for any kind of technology/bussiness consulting, Public Speak
 - Please read the slides before reffering to the links given below.
 - These links are Presenter Notes to refer after understanding the context in the workshop.
 
+# Talk Overview:
+
+This talk was completely focussed on newer audience onboarding for the technology and focussed to develope a taste of Realities forthe crowd with some data to support the point:
+
+Key Focus areas were:
+
+- Understanding Realities
+- Key points of VR/AR
+- Understanding the developer prespective 
+- Starting your own VR/AR journey as a developer
+- Examples and data to support and validate statements.
 
 # Slide Link:
 
