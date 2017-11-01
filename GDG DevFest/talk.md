@@ -21,3 +21,7 @@ You can contact me for any kind of technology/bussiness consulting, Public Speak
 # Slide Links:
 
 You can find the *GDG Devfest 2017* slide here: [Google Slides](https://docs.google.com/presentation/d/1qLIiCai2A67KCLof-m1tcQPYvZWE6kgydiYv-yJu8Fw/edit?usp=sharing)
+
+
+## PS:
+Visit the GDG DevFest Delhi Pictures here : (Google Photos)[https://photos.app.goo.gl/S61XUae3nDlHnxH42]
