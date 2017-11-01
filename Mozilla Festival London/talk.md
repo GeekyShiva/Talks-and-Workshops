@@ -20,6 +20,10 @@ You can contact me for any kind of technology/bussiness consulting, Public Speak
 - Email: [shivank1995@gmail.com](shivank1995@gmail.com)
 - Contact Number: 9005639309
 
+# About MozFest:
+
+MozFest is for advocates of a healthy Internet. Explore the intersection of the web with civil society, journalism, public policy, and art through interactive sessions.
+
 
 # Talk Details can be found here: 
 
