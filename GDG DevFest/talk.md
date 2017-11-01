@@ -24,4 +24,4 @@ You can find the *GDG Devfest 2017* slide here: [Google Slides](https://docs.goo
 
 
 ## PS:
-Visit the GDG DevFest Delhi Pictures here : (Google Photos)[https://photos.app.goo.gl/S61XUae3nDlHnxH42]
+Visit the GDG DevFest Delhi Pictures here : [Google Photos](https://photos.app.goo.gl/S61XUae3nDlHnxH42)
