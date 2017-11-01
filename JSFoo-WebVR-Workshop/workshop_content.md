@@ -9,6 +9,7 @@ You can contact me for any kind of technology/bussiness consulting, Public Speak
 
 - Twitter : [@shivank1995](https://twitter.com/shivank1995)
 - Facebook : [Geekyshiva](https://www.facebook.com/geekyshiva)
+- Instagram : [particle_panda](https://www.instagram.com/particle_panda/)
 - Website : [geekyshiva.xyz](http://geekyshiva.xyz/)
 - Email: [shivank1995@gmail.com](shivank1995@gmail.com)
 - Contact Number: 9005639309
