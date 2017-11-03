@@ -2,13 +2,13 @@
 
 I have spoken/ delivered talk or workshop at the following events:  
 
--JSFoo WebVR Workshop [HasGeek](https://hasgeek.com/)
+- JSFoo WebVR Workshop [HasGeek](https://hasgeek.com/)
 
--Google I/O Extended Lucknow: [https://www.facebook.com/ioextendedlucknow/](https://www.facebook.com/ioextendedlucknow/)
+- Google I/O Extended Lucknow: [https://www.facebook.com/ioextendedlucknow/](https://www.facebook.com/ioextendedlucknow/)
 
--Mozilla Festival 2016, London: [Mozilla Festival]( https://github.com/MozillaFoundation/mozfest-program-2016/issues/400)
+- Mozilla Festival 2016, London: [Mozilla Festival]( https://github.com/MozillaFoundation/mozfest-program-2016/issues/400)
 
--Google Developers Group Delhi, DevFest 2017, New Delhi: [DevFest 2017 (MIX Track)](https://www.meetup.com/GDGNewDelhi/events/243302149/)
+- Google Developers Group Delhi, DevFest 2017, New Delhi: [DevFest 2017 (MIX Track)](https://www.meetup.com/GDGNewDelhi/events/243302149/)
 
 # Speaker Info: 
 
