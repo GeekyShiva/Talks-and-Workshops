@@ -3,4 +3,4 @@ This repository will be updtated soon with the **Research Poster ** presented at
 
 ## Poster:
 
-<img src ="Research Poster- NIIT University/2.jpg" />
+<img src ="2.jpg" />
