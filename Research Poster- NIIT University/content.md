@@ -1,4 +1,6 @@
-This repository will be updtated soon with the **Research Poster ** presented at **Annual Lecture ** at *NIIT University* 
+This is the updated respository with the *Research Poster* presented at *Annual Lecture* at *NIIT University* 
+
+For more details: [Visit NIIT University](http://niituniversity.in/)
 
 
 ## Poster:
