@@ -20,6 +20,8 @@ I have spoken/ delivered talk or workshop at the following events:
 
 - Rajasthan Technical University, Faculty Development Workshop 2019, Udaipur Rajasthan : [RTU](http://www.rtu.ac.in/RTU/)
 
+- Amalitech GmBH, Germany and Ghana, Fireside Chat with Gordon and Shivang on Product LifeCycle and Design for Testing {Year 2020} : [AmaliTech Recording](https://youtu.be/g9ca-u-aHe4) 
+
 
 
 # Speaker Info: 
@@ -29,7 +31,6 @@ You can contact me for any kind of technology/business consulting, Public Speaki
 - Twitter : [@pandastichuman](https://twitter.com/pandastichuman)
 - Facebook : [Geekyshiva](https://www.facebook.com/geekyshiva)
 - Instagram : [particle_panda](https://www.instagram.com/particle_panda/)
-- Website : [particlepanda.xyz](http://geekyshiva.xyz/)
 - Email: [shivank1995@gmail.com](shivank1995@gmail.com)
 - Contact Number: 9005639309
 
@@ -47,6 +48,7 @@ You can contact me for any kind of technology/business consulting, Public Speaki
 - [VR Certification EDX](https://www.edx.org/professional-certificate/virtual-reality-vr-app-development)
 - [Learn Aframe Here](https://www.edx.org/professional-certificate/virtual-reality-vr-app-development)
 - [Udemy Learning series: Aframe WebVR](https://www.udemy.com/a-frame-webvr/)
+- Try VR here : [Mozilla Hubs](https://hubs.mozilla.com/)
 
 
 # Additional Links
