@@ -1,4 +1,4 @@
-# VR/AR Workshop and Talks by - Shivang Shekhar
+# Workshop and Talks by - Shivang Shekhar
 
 Please check the specified folders for viewing the slides.
 
@@ -21,6 +21,8 @@ I have spoken/ delivered talk or workshop at the following events:
 - Rajasthan Technical University, Faculty Development Workshop 2019, Udaipur Rajasthan : [RTU](http://www.rtu.ac.in/RTU/)
 
 - Amalitech GmBH, Germany and Ghana, Fireside Chat with Gordon and Shivang on Product LifeCycle and Design for Testing {Year 2020} : [AmaliTech Recording](https://youtu.be/g9ca-u-aHe4) 
+
+- College of Engineering and Technology, Bhubaneswar, HacktoberFest Opening Event, Talk on Open Source and AR/VR {Year 2020}: 
 
 
 
